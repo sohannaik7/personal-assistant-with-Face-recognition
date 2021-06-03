@@ -110,7 +110,7 @@ global memo   #web database
 memo = {'open youtube':'www.youtube.com','open google':'www.google.com','open facebook':'www.facebook.com',
 'open web':'www.google.com','open gmail':'www.gmail.com','open amazon':'www.amazon.com','open Amazom Prime':'www.primevideo.com',
 'open prime':'www.primevideo.com','open whatsapp':'web.whatsapp.com','open flipkart':'www.flipkart.com'}
-whatsappp = {'sohan':'9606272347'}#contact database
+whatsappp = {'presons name':'999999999'}#contact database
 
 
 # for voice...........................................
